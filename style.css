@@ -1758,3 +1758,13 @@ input:focus-visible {
     transform: none;
   }
 }
+.image-disclaimer {
+  max-width: 850px;
+  margin: 0 auto 28px;
+  padding: 13px 16px;
+  border-left: 3px solid var(--gold);
+  background: var(--cream);
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+}
