@@ -18,7 +18,7 @@
   Digits only. No + sign, spaces or hyphens.
 */
 
-const WHATSAPP_NUMBER = "234XXXXXXXXXX";
+const WHATSAPP_NUMBER = "2348109423620";
 
 const FAVOURITES_KEY = "hbh-favourites-v1";
 
